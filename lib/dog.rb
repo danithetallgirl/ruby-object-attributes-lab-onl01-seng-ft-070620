@@ -8,5 +8,5 @@ class Dog
   end
 end
  
-kanye = Dog.new("Kanye")
-kanye.name
+fido = Dog.new("fido")
+fido.name
