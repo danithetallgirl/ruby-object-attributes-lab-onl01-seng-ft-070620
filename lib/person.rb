@@ -8,5 +8,5 @@ class Person
   end
 end
  
-fido = Person.new("fido")
-fido.name
+beyonce = Person.new("beyonce")
+beyonce.name
